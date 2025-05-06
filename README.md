@@ -59,7 +59,7 @@ ec2_public_ips    = [ "13.55.14.22", "54.206.13.43" ]
 
 ---
 
-## 📎 Requirements
+## Requirements
 AWS CLI installed & configured
 
 Terraform CLI installed (>= 1.0.0)
@@ -99,8 +99,8 @@ You can also run this via `.github/workflows/terraform-destroy.yml`.
 
 ---
 
-## 📸 Screenshot
-![EC2 Instances](./ec2-instance.png)
+## Screenshot
+![EC2 Instances](./ec2-instances.png)
 *EC2 instance provisioning via Terraform*
 
 ![IAM User Policies](./iam-user-policies.png)
