@@ -3,7 +3,7 @@ output "subnet_id" {
 }
 
 output "ec2_instance_ids" {
-  value = module.compute.instance_ids  
+  value = module.compute.instance_ids
 }
 
 output "ec2_public_ips" {
